@@ -1,4 +1,4 @@
 [workspace]
 resolver = "2"
 
-members = ["day_01_rust", "day_02_rust", "day_03_rust", "day_04_rust", "day_05_rust", "day_06_rust"]
+members = ["day_01_rust", "day_02_rust", "day_03_rust", "day_04_rust", "day_05_rust", "day_06_rust", "day_07_rust"]
